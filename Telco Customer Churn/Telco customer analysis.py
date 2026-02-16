@@ -3,7 +3,7 @@
 """
 Telco Customer Churn Analysis Project
 Customer Churn Analysis Project
-Author: Laxman Chaudhury
+Author: Laxman R. Chaudhury
 Tools: Python (Pandas, NumPy), SQL, Matplotlib, Seaborn, Power BI
 Objective: Analyze telecom customer churn patterns and generate business insights.
 """
