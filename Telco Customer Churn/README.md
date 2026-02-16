@@ -117,7 +117,7 @@ The analysis demonstrates how organizations can proactively identify churn risks
 
 Author
 
-Laxman Choudhury
+Laxman R. Chaudhary
 Aspiring Data Scientist / Data Analyst
 Skills: Python, SQL, Pandas, NumPy, Power BI, Data Visualization
 Linkedln : https://www.linkedin.com/in/laxman-chaudhary-277b342b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
