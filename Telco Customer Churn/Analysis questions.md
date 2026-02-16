@@ -131,31 +131,3 @@ MonthlyCharges
 Tenure
 All in one meaningful chart.
 
-Section 5 — Power BI (4 Tasks)
-Business dashboard thinking
-
-Q27. Executive KPI Dashboard
-Create KPIs:
-Total customers
-Churn rate
-Revenue lost
-Average tenure of churned customers
-
-Q28. Churn Driver Dashboard
-Create visuals for:
-Contract vs Churn
-Payment Method vs Churn
-Internet Service vs Churn
-
-Q29. Customer Segmentation Dashboard
-Create slicers for:
-Contract
-Tenure
-MonthlyCharges
-Allow business users to explore churn.
-
-Q30. Retention Strategy Dashboard (Advanced)
-Design a dashboard that helps management:
-Identify high-risk customers
-Estimate revenue at risk
-Decide where to invest retention budget
